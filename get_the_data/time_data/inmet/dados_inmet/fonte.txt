@@ -1,0 +1,3 @@
+Os dados do inmet foram retirados diretamente do site:
+
+https://portal.inmet.gov.br/
